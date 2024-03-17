@@ -11,9 +11,6 @@ People often require assistance when traveling. This frequently happens on fligh
 Sky Companion is an affordable way to find companions on the same flight. Free companionship is provided by Volunteers. End to end Availability on a wide range of routes as anyone can be a companion, independent of airlines. It provides an option to Customize the routes. Profile review and rating along with chat feature.
 
 
-[![pipeline status](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/badges/main/pipeline.svg)](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group05/-/commits/main)
-
-
 ### Test Case Coverage
 ![Static Badge](https://img.shields.io/badge/Class_Coverage-100%25-blue)
 ![Static Badge](https://img.shields.io/badge/Method_Coverage-93%25-blue)
